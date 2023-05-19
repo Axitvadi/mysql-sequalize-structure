@@ -1,0 +1,1 @@
+# mysql-sequalize-structure
